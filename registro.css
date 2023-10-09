@@ -108,6 +108,7 @@ line-height: 2rem; /* 160% */
 }
 
 button{
+    
     display: flex;
     width: 20.25rem;
     padding: 0rem 2rem;
